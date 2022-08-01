@@ -1,0 +1,31 @@
+[ERROR] test output_exception
+                                                                     file                                                                                            name                            line
+    ______________________________________________________________________________________________________________________________________    ___________________________________________________    ____
+
+    'E:\GitRepos\Nix_M\packages\exception\test_exception.m'                                                                                   'test_output_exception_type0'                            30
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\FunctionTestCase.m'                                   'FunctionTestCase.test'                                  98
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.evaluateMethodCore'                        1059
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.evaluateMethodsOnTestContent'               990
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.runTestMethod'                             1356
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.runTest'                                   1313
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.repeatTest'                                 615
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.runSharedTestCase'                          577
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.runTestClass'                              1232
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.invokeTestContentOperatorMethod_'          1105
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.runTestClass'                         411
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\+testrunprogress\ConciseProgressPlugin.m'    'ConciseProgressPlugin.runTestClass'                     61
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.invokeTestContentOperatorMethod_'     691
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.evaluateMethodOnPlugins'                    949
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.runTestSuite'                              1164
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.invokeTestContentOperatorMethod_'          1105
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.runTestSuite'                         262
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\FailureDiagnosticsPlugin.m'                  'FailureDiagnosticsPlugin.runTestSuite'                 106
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.invokeTestContentOperatorMethod_'     691
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.runTestSuite'                         262
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\DiagnosticsRecordingPlugin.m'                'DiagnosticsRecordingPlugin.runTestSuite'               184
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\+plugins\TestRunnerPlugin.m'                          'TestRunnerPlugin.invokeTestContentOperatorMethod_'     691
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.evaluateMethodOnPlugins'                    949
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\+matlab\+unittest\TestRunner.m'                                         'TestRunner.run'                                        336
+    'C:\Program Files\MATLAB\R2017a\toolbox\matlab\testframework\core\runtests.m'                                                             'runtests'                                              125
+
+

@@ -1,0 +1,60 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+temp.m
+others/
+examples/example_two_stream/留存-冷束real_time_display.png
+examples/example_two_stream/留存-冷束-静电能时间演化.png
+examples/example_two_stream/留存-热束real_time_display.png
+examples/example_two_stream/留存-热束-静电能时间演化.png
+examples/example_Bernstein_wave/real_time_display.png
+examples/example_Bernstein_wave/reference_2018Xie.fig
+examples/example_Bernstein_wave/留存-real_time_display.png
+examples/example_Bernstein_wave/留存-电场波动与完整幅值频谱.jpg
+examples/example_Bernstein_wave/留存-回旋频率谐频.jpg
+examples/example_Bernstein_wave/留存-全部数据.mat
+examples/example_sheath_potential_and_sheath_length_Benchmark/sheath_potential_benchmark.png
+examples/example_sheath_potential_and_sheath_length_Benchmark/sheath_length_benchmark.png
+examples/example_Bernstein_wave/reference_2018Xie.fig
+examples/example_Bernstein_wave/留存-real_time_display.png
+examples/example_Bernstein_wave/留存-电场波动与完整幅值频谱.jpg
+examples/example_Bernstein_wave/留存-回旋频率谐频.jpg
+examples/example_Bernstein_wave/留存-全部数据.mat
+examples/example_plasma_oscillation_and_waves/伯恩斯坦波-PR#12版本结果留存/
+packages/cross_section/Ref_CPIP_code.lnk
+examples/example_plasma_oscillation_and_waves/plasma_waves/final_data21_37.mat
+examples/example_plasma_oscillation_and_waves/plasma_waves/final_data22_00.mat
+examples/example_plasma_oscillation_and_waves/plasma_waves/信号与频谱21_37.png
+examples/example_plasma_oscillation_and_waves/plasma_waves/信号与频谱22_00.png
+examples/example_electron_drift_velocity/MCCdrift_velocity_testResults.mat
+examples/example_electron_drift_velocity/drift_velocity_200Pa.png
+examples/example_plasma_oscillation_and_waves/plasma_waves/终止时实时诊断21_37.png
+examples/example_plasma_oscillation_and_waves/plasma_waves/终止时实时诊断22_00.png
